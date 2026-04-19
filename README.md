@@ -1,0 +1,1 @@
+# Obsidian-Gemini-web-Sidebar
