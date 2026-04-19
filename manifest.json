@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "minAppVersion": "0.15.0",
   "description": "Loads the Gemini web interface in an Obsidian sidebar pane.",
-  "author": "Your Name",
-  "authorUrl": "",
+  "author": "A1derLake",
+  "authorUrl": "https://github.com/A1derLake/Obsidian-Gemini-web-Sidebar",
   "isDesktopOnly": true
 }
