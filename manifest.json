@@ -1,0 +1,10 @@
+{
+  "id": "gemini-sidebar",
+  "name": "Gemini Sidebar",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Loads the Gemini web interface in an Obsidian sidebar pane.",
+  "author": "Your Name",
+  "authorUrl": "",
+  "isDesktopOnly": true
+}
